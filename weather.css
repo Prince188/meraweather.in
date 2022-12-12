@@ -10,6 +10,9 @@
     border-radius: 30px;
     box-shadow: 0 0 2px black;
 }
+.ps{
+    text-size:10;
+    }
 /*heading*/
 .head{
     background-color: aqua;
