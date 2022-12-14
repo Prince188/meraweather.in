@@ -19,7 +19,9 @@
     font-family: sans-serif;
 
 }
-}
+.col{
+    padding: 10px;
+    }
 /*heading*/
 .head{
     background-color: aqua;
