@@ -90,7 +90,7 @@ body{
 
 .card-body{
     background-color: #212529;
-    color: white;
+    color: white !important;
     border-bottom-left-radius: 30px;
     border-bottom-right-radius: 30px;
 }
